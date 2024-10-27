@@ -1,33 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>superrXu&#39;s Blog</title>
-    <link>https://superrXu.github.io/</link>
-    <description>Recent content on superrXu&#39;s Blog</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 20 Oct 2024 20:26:31 +0800</lastBuildDate>
-    <atom:link href="https://superrXu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://superrXu.github.io/about/</link>
-      <pubDate>Sun, 20 Oct 2024 20:26:31 +0800</pubDate>
-      <guid>https://superrXu.github.io/about/</guid>
-      <description>&lt;p&gt;昨天中午去老碗会吃饭，因为去的晚了点，门店客人已经很满了，所以需要与人拼桌。 进去后随便找了张桌子，同座的是一对老夫妻，看面相已年过古稀了，后来的交谈中 也印证了我的猜想。&lt;/p&gt;&#xA;&lt;p&gt;故事是从听到老两口用关中话聊天开始的，听到后我还会心一笑：果然，来老碗会的 还是陕西人多。也不知道因为什么大妈突然转过头问我：“小伙子哪里人啊?” 我因为 听到两位老人说的关中话了， 就用关中话回了句陕西咸阳的，就这么打开了话匣子。&lt;/p&gt;&#xA;&lt;p&gt;交谈中得知大爷是咸阳市人，大妈是蓝田人，两人是 88年毕业后就来了深圳，乘着 改革开放的东风，在深圳奋斗了一辈子也算是颇有成就。别的不说，住的附近前海的 房子，从现在的价值来讲已过千万，儿女也算是深二代了，都有了好的归宿。&lt;/p&gt;&#xA;&lt;p&gt;老两口吃完临走时大妈还拍着我的肩膀语重心长的对我说， 年轻人不要怕吃苦，好好 奋斗，生活会好起来的。&lt;/p&gt;&#xA;&lt;p&gt;其实每个人的人生际遇与所处的时代是不可分割的。拿大爷大妈来讲，70多岁的人， 毕业后就进的工厂，现在深圳不止一套房产的财富累积，是单纯因为在工厂里努力奋 斗工作吗？是，但更多的是国家改革开放的东风，深圳经济特区的建立，在这里搭上了 时代的快车，实现的自己的人生价值与财富累积的双赢。&lt;/p&gt;&#xA;&lt;p&gt;所以当时代的洪流滚滚而来时，不要逃避，不要抗拒 – 顺应时代，跟随国家政策的 脚步走，才能最大化的实现自己的价值。老两口的年纪只比我外公外婆略小，我外公 外婆家在陕西，一辈子农民，勤勤恳恳，是他们不够努力吗？我相信我外公作为当年国企 印刷厂的员工，专业电工，如果来了深圳，也一样能够搭上国家的快车，那现在的生活 与当下就可能发生质变了。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;顺应时代潮流，选择比单纯的努力更重要。&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>https://superrXu.github.io/posts/my-second-post/</link>
-      <pubDate>Sun, 20 Oct 2024 19:59:27 +0800</pubDate>
-      <guid>https://superrXu.github.io/posts/my-second-post/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Replace with Summary to Display&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://superrXu.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 20 Oct 2024 19:59:20 +0800</pubDate>
-      <guid>https://superrXu.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Replace with Summary to Display&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>superrXu's Blog</title><link>https://superrXu.github.io/</link><description>Recent content on superrXu's Blog</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 27 Oct 2024 12:38:50 +0800</lastBuildDate><atom:link href="https://superrXu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Github_action_test</title><link>https://superrXu.github.io/posts/github_action_test/</link><pubDate>Sun, 27 Oct 2024 12:38:50 +0800</pubDate><guid>https://superrXu.github.io/posts/github_action_test/</guid><description>&lt;h2 id="目的">目的&lt;/h2>
+&lt;blockquote>
+&lt;p>测试Github Actions 是否正常运行&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="步骤">步骤&lt;/h2>
+&lt;ol>
+&lt;li>创建新的博客文件&lt;/li>
+&lt;li>提交到博客源仓库&lt;/li>
+&lt;li>查看 github pages 仓库是否自动更新了&lt;/li>
+&lt;li>将 github_action.yml 放到git 仓库根目录下&lt;/li>
+&lt;li>目录是 .github/workflows, 不是 workflow&lt;/li>
+&lt;li>action 报错了： &lt;code>the 'uses' attribute bust be a path, a Docker image, or owner/repo@ref&lt;/code>&lt;/li>
+&lt;li>把 submodule 的去掉&lt;/li>
+&lt;li>终于跑通了，但跑通了后博客网站打不开了。。&lt;/li>
+&lt;/ol></description></item><item><title/><link>https://superrXu.github.io/about/</link><pubDate>Sun, 20 Oct 2024 20:26:31 +0800</pubDate><guid>https://superrXu.github.io/about/</guid><description>&lt;p>昨天中午去老碗会吃饭，因为去的晚了点，门店客人已经很满了，所以需要与人拼桌。 进去后随便找了张桌子，同座的是一对老夫妻，看面相已年过古稀了，后来的交谈中 也印证了我的猜想。&lt;/p>
+&lt;p>故事是从听到老两口用关中话聊天开始的，听到后我还会心一笑：果然，来老碗会的 还是陕西人多。也不知道因为什么大妈突然转过头问我：“小伙子哪里人啊?” 我因为 听到两位老人说的关中话了， 就用关中话回了句陕西咸阳的，就这么打开了话匣子。&lt;/p>
+&lt;p>交谈中得知大爷是咸阳市人，大妈是蓝田人，两人是 88年毕业后就来了深圳，乘着 改革开放的东风，在深圳奋斗了一辈子也算是颇有成就。别的不说，住的附近前海的 房子，从现在的价值来讲已过千万，儿女也算是深二代了，都有了好的归宿。&lt;/p>
+&lt;p>老两口吃完临走时大妈还拍着我的肩膀语重心长的对我说， 年轻人不要怕吃苦，好好 奋斗，生活会好起来的。&lt;/p>
+&lt;p>其实每个人的人生际遇与所处的时代是不可分割的。拿大爷大妈来讲，70多岁的人， 毕业后就进的工厂，现在深圳不止一套房产的财富累积，是单纯因为在工厂里努力奋 斗工作吗？是，但更多的是国家改革开放的东风，深圳经济特区的建立，在这里搭上了 时代的快车，实现的自己的人生价值与财富累积的双赢。&lt;/p>
+&lt;p>所以当时代的洪流滚滚而来时，不要逃避，不要抗拒 – 顺应时代，跟随国家政策的 脚步走，才能最大化的实现自己的价值。老两口的年纪只比我外公外婆略小，我外公 外婆家在陕西，一辈子农民，勤勤恳恳，是他们不够努力吗？我相信我外公作为当年国企 印刷厂的员工，专业电工，如果来了深圳，也一样能够搭上国家的快车，那现在的生活 与当下就可能发生质变了。&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>顺应时代潮流，选择比单纯的努力更重要。&lt;/strong>&lt;/p></description></item><item><title>My Second Post</title><link>https://superrXu.github.io/posts/my-second-post/</link><pubDate>Sun, 20 Oct 2024 19:59:27 +0800</pubDate><guid>https://superrXu.github.io/posts/my-second-post/</guid><description>&lt;p>&lt;strong>Replace with Summary to Display&lt;/strong>&lt;/p></description></item><item><title>My First Post</title><link>https://superrXu.github.io/posts/my-first-post/</link><pubDate>Sun, 20 Oct 2024 19:59:20 +0800</pubDate><guid>https://superrXu.github.io/posts/my-first-post/</guid><description>&lt;p>&lt;strong>Replace with Summary to Display&lt;/strong>&lt;/p></description></item></channel></rss>
