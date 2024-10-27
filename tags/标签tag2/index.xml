@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>标签tag2 on superrXu&#39;s Blog</title>
+    <link>https://superrXu.github.io/tags/%E6%A0%87%E7%AD%BEtag2/</link>
+    <description>Recent content in 标签tag2 on superrXu&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 20 Oct 2024 19:59:20 +0800</lastBuildDate>
+    <atom:link href="https://superrXu.github.io/tags/%E6%A0%87%E7%AD%BEtag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://superrXu.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 20 Oct 2024 19:59:20 +0800</pubDate>
+      <guid>https://superrXu.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Replace with Summary to Display&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
