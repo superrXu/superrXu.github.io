@@ -4,4 +4,13 @@
 &lt;li>&lt;a href="https://dashboard.webp.se/">webp 服务&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>以下是测试图片，用于验证图床及 webp 服务有效性：
-&lt;a href="https://pics.saitoler.cn/DSC_0992.jpg">像只鱼儿在你的荷塘&lt;/a>&lt;/p></description></item></channel></rss>
+
+ 
+ 
+ 
+&lt;p class="md__image">
+ &lt;img src='https://pics.saitoler.cn/DSC_0992.jpg' alt="像只鱼儿在你的荷塘" />
+&lt;/p>
+ 
+ 
+&lt;/p></description></item></channel></rss>
