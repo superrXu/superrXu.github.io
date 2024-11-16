@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>博客 on superrXu's Blog</title><link>https://superrXu.github.io/categories/%E5%8D%9A%E5%AE%A2/</link><description>Recent content in 博客 on superrXu's Blog</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 16 Nov 2024 22:55:20 +0800</lastBuildDate><atom:link href="https://superrXu.github.io/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml"/><item><title>图床配置与webp服务</title><link>https://superrXu.github.io/posts/%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE%E4%B8%8Ewebp%E6%9C%8D%E5%8A%A1/</link><pubDate>Sat, 16 Nov 2024 22:55:20 +0800</pubDate><guid>https://superrXu.github.io/posts/%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE%E4%B8%8Ewebp%E6%9C%8D%E5%8A%A1/</guid><description>&lt;p>本周给博客把图床搭建好了，并配置了 webp 服务用于提高页面加载效率&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.cloudflare-cn.com/">图床-cloudflare R2服务&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dashboard.webp.se/">webp 服务&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>以下是测试图片，用于验证图床及 webp 服务有效性：
+&lt;a href="https://pics.saitoler.cn/DSC_0992.jpg">像只鱼儿在你的荷塘&lt;/a>&lt;/p></description></item></channel></rss>
